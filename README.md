@@ -1,7 +1,6 @@
 
 
-# Simulation Modeling for Patient No-Show Loss Reduction - AD 616 Final Project
-
+# Simulation Modeling for Patient No-Show Loss Reduction 
 ## Introduction
 This project focuses on developing a simulation model to reduce losses caused by patient no-shows in a Brazilian hospital.
 
